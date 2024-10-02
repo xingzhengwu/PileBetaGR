@@ -31,11 +31,7 @@ library("PileBetaGR")
 	CurveMihalikQpssBridge
 	data(P1P2MihalikRegPars)
 	P1P2MihalikRegPars
-    PowerLawRegrssion
-    2dContour
-    3dContour
-    SolveBetaG2d
-    SolveBetaG3d
+
 
 # Run Shiny web application 
 runShinyPileBetaGR()

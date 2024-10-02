@@ -1,0 +1,78 @@
+CFGRegPars              Regression parameters for the load versus
+                        settlement curves of the CFG pile
+CurveCFGQpssAP          Load displacement data for each test at the
+                        site AP by Wu and Xin 2019
+CurveCFGQpssBP          Load displacement data for each test at the
+                        site BP by Wu and Xin 2019
+CurveCFGQpssCP          Load displacement data for each test at the
+                        site CP by Wu and Xin 2019
+CurveCFGQpssDP          Load displacement data for each test at the
+                        site DP by Wu and Xin 2019
+CurveCFGQpssEP          Load displacement data for each test at the
+                        site EP by Wu and Xin 2019
+CurveCFGQpssFP          Load displacement data for each test at the
+                        site FP by Wu and Xin 2019
+CurveGEQpssA1           Load displacement data for each test at the
+                        site A1 by Park etal 2012
+CurveGEQpssA2           Load displacement data for each test at the
+                        site A2 by Park etal 2012
+CurveGEQpssB1           Load displacement data for each test at the
+                        site B1 by Prakoso 2016
+CurveGEQpssB2           Load displacement data for each test at the
+                        site B2 by Prakoso 2016
+CurveGEQpssB3           Load displacement data for each test at the
+                        site B3 by Prakoso 2016
+CurveGEQpssC1           Load displacement data for each test at the
+                        site C1 by Zhou et al 2019
+CurveGEQpssC2           Load displacement data for each test at the
+                        site C2 by Zhou et al 2019
+CurveGlobeQpssP01       Load displacement data for each test at the
+                        site P01 by Brandl H. 2005
+CurveGlobeQpssP02       Load displacement data for each test at the
+                        site P02 by Evangelista et al 1977
+CurveGlobeQpssP03       Load displacement data for each test at the
+                        site P03 by HHET 2018
+CurveGlobeQpssP04       Load displacement data for each test at the
+                        site P04 by HHET 2019
+CurveGlobeQpssP05       Load displacement data for each test at the
+                        site P05 by HHET 2020
+CurveGlobeQpssP06       Load displacement data for each test at the
+                        site P06 by HJCT 2018
+CurveGlobeQpssP07       Load displacement data for each test at the
+                        site P07 by HJCT 2019
+CurveGlobeQpssP08       Load displacement data for each test at the
+                        site P08 by Karlsrud 2013
+CurveGlobeQpssP09       Load displacement data for each test at the
+                        site P09 by Lu et al 2019
+CurveGlobeQpssP10       Load displacement data for each test at the
+                        site P10 by Mahakhotchasenichai et al 2018
+CurveGlobeQpssP11       Load displacement data for each test at the
+                        site P11 by Sun et al 2014
+CurveGlobeQpssP12       Load displacement data for each test at the
+                        site P12 by Tawfik et al 2015
+CurveMihalikQpssBridge
+                        Load displacement data for each test at the
+                        site Bridge by Mihalik et al 2023
+CurvePSIQpssAI          Load displacement data for each test at the
+                        site AI by Wu and Xin 2021
+CurvePSIQpssBI          Load displacement data for each test at the
+                        site BI by Wu and Xin 2021
+CurvePSIQpssCI          Load displacement data for each test at the
+                        site CI by Wu and Xin 2021
+CurvePSIQpssDI          Load displacement data for each test at the
+                        site DI by Wu and Xin 2021
+CurvePSIQpssEI          Load displacement data for each test at the
+                        site EI by Wu and Xin 2021
+CurvePSIQpssFI          Load displacement data for each test at the
+                        site FI by Wu and Xin 2021
+P1P2GERegPars           Regression parameters for the load versus
+                        settlement curves by Park et al. (2012), Park
+                        et al. (2012), and Zhou et al. (2019)
+P1P2GlobeRegPars        Regression parameters for the load versus
+                        settlement curves all site across the globe
+P1P2MihalikRegPars      Regression parameters for the load versus
+                        settlement curves by Mihalik et al. (2023)
+PSIRegPars              Regression parameters for the pressure versus
+                        settlement curves of the pile-soil intermediate
+                        (PSI)
+PileBetaGR-package      PileBetaGR-package

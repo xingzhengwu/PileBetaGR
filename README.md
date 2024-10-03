@@ -32,6 +32,8 @@ library("PileBetaGR")
 	data(P1P2MihalikRegPars)
 	P1P2MihalikRegPars
 
+#
+https://github.com/xingzhengwu/PileBetaGR/blob/main/docs/PileBetaGR_4.3.2.pdf
 
 # Run Shiny web application 
 runShinyPileBetaGR()

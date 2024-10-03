@@ -89,7 +89,7 @@
 	xx2_p <- res_x[[2]]
 	xx3_p <- res_x[[3]]
 
-	FosS<-2.0
+	FosS<-1.0
 	TmpSettleAllow<-40
 	fff2d<-function(p1Spec,p2Spec,MeanMaxTestLoad){ 
 		SettleAllowable<-TmpSettleAllow

@@ -7,7 +7,7 @@
 
 <!-- badges: end -->
 
-The PileBetaGR software is a statistical package that enables the independent use of geometric reliability methods used in exploratory load settlement data analysis.
+The PileBetaGR software is a statistical package that enables the independent use of geometric reliability methods used in exploratory load settlement data analysis. Please refer to the publication on this package: https://doi.org/10.1016/j.softx.2025.102123 
 
 ## Installation
 
